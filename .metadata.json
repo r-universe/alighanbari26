@@ -1,0 +1,14 @@
+[
+  {
+    "package": "ALSM",
+    "oncran": true
+  },
+  {
+    "package": "AST",
+    "oncran": true
+  },
+  {
+    "package": "GPRMortality",
+    "oncran": true
+  }
+]

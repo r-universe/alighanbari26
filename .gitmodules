@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ALSM"]
+	path = ALSM
+	url = https://github.com/alighanbari26/alsm
+	shallow = true
+	registered = true
+[submodule "AST"]
+	path = AST
+	url = https://github.com/alighanbari26/ast
+	shallow = true
+	registered = true
+[submodule "GPRMortality"]
+	path = GPRMortality
+	url = https://github.com/alighanbari26/gprmortality
+	shallow = true
+	registered = true
