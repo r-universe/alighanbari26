@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ALSM"]
-	path = ALSM
-	url = https://github.com/alighanbari26/alsm
 [submodule "AST"]
 	path = AST
 	url = https://github.com/alighanbari26/ast
